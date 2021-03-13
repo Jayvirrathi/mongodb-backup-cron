@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-backup-cron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayvirrathi/mongodb-backup-cron.git"
+  },
+  "keywords": [],
+  "author": "Jayvir Rathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jayvirrathi/mongodb-backup-cron/issues"
+  },
+  "homepage": "https://github.com/Jayvirrathi/mongodb-backup-cron#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "node-cron": "^3.0.0"
+  }
+}
